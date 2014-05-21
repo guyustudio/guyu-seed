@@ -1,0 +1,22 @@
+{
+  "name": "guyu-seed",
+  "version": "0.0.0",
+  "authors": [
+    "布谷 <ginko@foxmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.0",
+    "bootstrap": "~3.1.1",
+    "requirejs": "~2.1.11",
+    "angular-route": "~1.2.16",
+    "angular": "~1.2.16"
+  }
+}
